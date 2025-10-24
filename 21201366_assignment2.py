@@ -3,7 +3,7 @@ import random
 from OpenGL.GL import *
 from OpenGL.GLUT import *
 from OpenGL.GLU import *
-
+#variables
 wid = 800  
 heit = 600  
 c_rad = 20  
@@ -229,3 +229,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
